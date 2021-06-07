@@ -1,6 +1,8 @@
 #### 在cmd文件里直接执行java程序
 
 test111
+
+test 222
     java -jar E:\java-iu\iu_util_development\sentinel\sentinel-installed\sentinel-dashboard-1.8.1.jar
     若这种方式的运行退出进程就结束了；如果想在后台可以运行，则需要执行 java -jar demo.jar > log_demo.file 2>&1 & 即可在后台运行该服务了，log_demo.file是日志文件。如需停止该进程 执行ps -ef|grep java 找到对应的进程 kill 进程ID 即可。
 
