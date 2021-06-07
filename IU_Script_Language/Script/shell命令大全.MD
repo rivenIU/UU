@@ -15,3 +15,16 @@
 #### 设置Sentinel端口号
      
     java  -jar .\sentinel-dashboard-1.6.3.jar  --server.port=9999
+    
+    merge和rebase区别
+    https://www.jianshu.com/p/4079284dd970
+    
+    
+    idea使用git
+    访问git官网下载git，安装。
+    找到你的项目目录，右键git gui here，创建一个git仓库叫local——rep，那么你的项目就在你的本地仓库，
+    然后在idea里右键此项目就可以看到Git选项，我们直接commit directory就可以把此项目提交到本地仓库。
+    然后右键此项目选择repository-》remotes，选择添加，输入你远程仓库的名称例如main，然后输入仓库地址如
+    https://github.com/rivenIU/UU，这里本地仓库名称是settings-》git里面配置的，默认为master。
+    然后我们右键要上传的文件或目录，选择git-》push，就可以上传到远程仓库了，
+    远程仓库本来只有main仓库，现在就会自动新增一个master仓库，上传的文件就在那里。
