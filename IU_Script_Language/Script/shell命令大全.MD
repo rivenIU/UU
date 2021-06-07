@@ -28,3 +28,7 @@
     https://github.com/rivenIU/UU，这里本地仓库名称是settings-》git里面配置的，默认为master。
     然后我们右键要上传的文件或目录，选择git-》push，就可以上传到远程仓库了，
     远程仓库本来只有main仓库，现在就会自动新增一个master仓库，上传的文件就在那里。
+    
+    commit message格式
+    https://blog.csdn.net/alnorthword/article/details/88537561
+    https://blog.csdn.net/qq_27445903/article/details/78092757?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
