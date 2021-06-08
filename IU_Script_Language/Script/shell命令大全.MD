@@ -48,3 +48,8 @@ test 222
             numberFormat.setMaximumIntegerDigits(3);
             numberFormat.setMinimumIntegerDigits(3);
             sumNo += numberFormat.format(Integer.valueOf(numberMax) + 1);
+            
+            
+            内网穿透--亲测有用
+            https://natapp.cn/tunnel/edit/16vl129vj8
+            
