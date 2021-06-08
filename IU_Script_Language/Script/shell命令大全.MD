@@ -41,3 +41,10 @@ test 222
 
 
 /**是匹配0或多级目录
+
+
+生成编号001、002
+ NumberFormat numberFormat = NumberFormat.getInstance();
+            numberFormat.setMaximumIntegerDigits(3);
+            numberFormat.setMinimumIntegerDigits(3);
+            sumNo += numberFormat.format(Integer.valueOf(numberMax) + 1);
