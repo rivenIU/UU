@@ -53,3 +53,6 @@ test 222
             内网穿透--亲测有用
             https://natapp.cn/tunnel/edit/16vl129vj8
             
+            系统重装
+            老毛桃，插入要重装系统的电脑，开机时一直按F8
+            
