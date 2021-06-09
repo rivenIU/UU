@@ -59,3 +59,6 @@ test 222
             重置windows10系统密码
             管理员身份运行net user riven 123456
             
+            远程控制、投屏
+            向日葵
+            
